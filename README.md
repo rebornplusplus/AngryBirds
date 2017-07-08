@@ -94,3 +94,18 @@ TermProject 1-1
 	--> ending()
 		the final screenplay, touchy perhaps!
 </pre>
+
+# Instruction for the coders:
+	
+	1. Enough Comments for even people of Mars to follow!
+	2. Independent Levels
+	3. Structured (OOP)
+
+# Global variables
+	1. Window width & height
+	2. Sound On-off
+	3. Structures according to functions
+	
+-----------------------------
+<i> July 08, 2017 </i>
+Central Library, BUET
