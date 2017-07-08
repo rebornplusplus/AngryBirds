@@ -10,7 +10,7 @@
 // window size and current gameState(in String)
 const double width = 900, height = 480;
 char gameState[100];
-int sound, level;
+int sound, level, story;	// if story <= level, show story. else gameplay
 
 // shows the loading line, the passed img is the filename of an image
 // returns 1 if fully loaded, 0 otherwise
@@ -168,6 +168,46 @@ void gameplay() {
 	iText(0, 240, "This is the gameplay archade\n");
 }
 
+void story_1()
+{
+	
+}
+
+void level_1()
+{
+	
+}
+
+void story_2()
+{
+	
+}
+
+void level_2()
+{
+	
+}
+
+void story_3()
+{
+	
+}
+
+
+void level_3()
+{
+	
+}
+
+void story_4()
+{
+	
+}
+
+void story_5()
+{
+	
+}
 void credits() {
 	iSetColor(0, 255, 0);
 	iText(0, 240, "Credits");
