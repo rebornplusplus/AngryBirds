@@ -67,5 +67,30 @@ TermProject 1-1
 		objective: "cross the wall and fly to the palace"
 		equipments: rock-thrower
 		birds: let's say 'x' count, x >= 3, red, chuck, bomb
-	--> 
+	
+	--> level-3()
+		The mighty eagle comes to rescue the eggs
+		keys:
+			red, chuck, bomb searching the eggs
+			found the eggs
+			calling mighty eagle
+			eagle comes to rescue
+			
+		gameplay begins.
+		objective: "fly the eggs to safety and avoid the following piggy airforce"
+		birds: eagle
+		equipments: air-force
+		
+	--> level-4()
+		The final battle between RED and LEONARD (king pig)
+		keys:
+			// skip for now, improvise
+		
+		gameplay begins.
+		objective: "destroy leonard"
+		birds: red
+		pig: leonard
+		
+	--> ending()
+		the final screenplay, touchy perhaps!
 </pre>
