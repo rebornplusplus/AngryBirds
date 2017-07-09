@@ -21,7 +21,7 @@ TermProject 1-1
 		PLAY
 		EXIT
 	
-3. User Login/Signup Prompt ( To be added ) 
+<strike>3. User Login/Signup Prompt ( To be added ) </strike>
 	
 4. Play Menu
 	--> Pic - 2 (changes accord to sound)
@@ -32,6 +32,7 @@ TermProject 1-1
 		Start A new Gamep
 		Sound ( basically flips )
 		Credits ( a brief visit to credits )
+		Extra ( Extras )
 
 5. Archade ( To be added )
 	--> 'x' number of levels. Estimated 'x' = 
